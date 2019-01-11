@@ -1,0 +1,10 @@
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csprojResolveAssemblyReference.cache
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.Cache
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\ErnestoVM\Documents\Visual Studio 2017\Projects\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
